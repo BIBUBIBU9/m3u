@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="null" group-title="自定义",女流66
 https://epg.112114.xyz/douyu/156277
+#EXTINF:-1 tvg-logo="null" group-title="自定义",女流66
+https://epg.112114.xyz/douyu/156277
 #EXTINF:-1 tvg-logo="null" group-title="自定义",超级小桀
 https://epg.112114.xyz/douyu/74751
 #EXTINF:-1 tvg-logo="null" group-title="自定义",wtybill
@@ -21,16 +23,20 @@ https://epg.112114.xyz/douyu/71415
 https://epg.112114.xyz/douyu/3187637
 #EXTINF:-1 tvg-logo="null" group-title="自定义",安神豆腐渣
 https://epg.112114.xyz/douyu/916749
-#EXTINF:-1 tvg-logo="null" group-title="自定义",金甲EzNpc
-https://epg.112114.xyz/douyu/4572396
+#EXTINF:-1 tvg-logo="null" group-title="自定义",离离离离离离离离开
+https://epg.112114.xyz/huya/121102
+#EXTINF:-1 tvg-logo="null" group-title="自定义",冰MMMM
+https://epg.112114.xyz/douyu/1105963
+#EXTINF:-1 tvg-logo="null" group-title="自定义",杀杀杀人哥
+https://epg.112114.xyz/douyu/3630850
+#EXTINF:-1 tvg-logo="null" group-title="自定义",工口工口工口
+https://epg.112114.xyz/douyu/947584
 #EXTINF:-1 tvg-logo="null" group-title="自定义",大肉嘎233
 https://epg.112114.xyz/douyu/1607787
 #EXTINF:-1 tvg-logo="null" group-title="自定义",哈尼她姐
 https://epg.112114.xyz/douyu/5132174
 #EXTINF:-1 tvg-logo="null" group-title="自定义",一番少侠29
 https://epg.112114.xyz/douyu/4042402
-#EXTINF:-1 tvg-logo="null" group-title="自定义",iu可可曾
-https://epg.112114.xyz/douyu/83816
 #EXTINF:-1 tvg-logo="null" group-title="自定义",太原杨树
 https://epg.112114.xyz/douyu/703747
 #EXTINF:-1 tvg-logo="null" group-title="自定义",CAROL紫雨
@@ -39,12 +45,12 @@ https://epg.112114.xyz/douyu/4044733
 https://epg.112114.xyz/douyu/290935
 #EXTINF:-1 tvg-logo="null" group-title="自定义",主播阿飞
 https://epg.112114.xyz/douyu/84452
-#EXTINF:-1 tvg-logo="null" group-title="自定义",呆妹儿小霸王
-https://epg.112114.xyz/douyu/2947432
-#EXTINF:-1 tvg-logo="null" group-title="自定义",Big茄子
-https://epg.112114.xyz/douyu/9418
 #EXTINF:-1 tvg-logo="null" group-title="自定义",一条小团团OvO
 https://epg.112114.xyz/douyu/2222
+#EXTINF:-1 tvg-logo="null" group-title="自定义",异灵术老师
+https://epg.112114.xyz/douyu/93589
+#EXTINF:-1 tvg-logo="null" group-title="自定义",恩基爱萌萌哒的狗贼
+https://epg.112114.xyz/douyu/208114
 #EXTINF:-1 tvg-logo="null" group-title="自定义",芜湖大司马丶
 https://epg.112114.xyz/douyu/3548022
 #EXTINF:-1 tvg-logo="null" group-title="自定义",狐狸不太Sao
@@ -53,9 +59,11 @@ https://epg.112114.xyz/douyu/6696
 https://epg.112114.xyz/douyu/687423
 #EXTINF:-1 tvg-logo="null" group-title="自定义",即将拥有人鱼线的PDD
 https://epg.112114.xyz/douyu/101
-#EXTINF:-1 tvg-logo="null" group-title="自定义",异灵术老师
-https://epg.112114.xyz/douyu/93589
-#EXTINF:-1 tvg-logo="null" group-title="自定义",离离离离离离离离开
-https://epg.112114.xyz/huya/121102
-#EXTINF:-1 tvg-logo="null" group-title="自定义",女流66
-https://epg.112114.xyz/douyu/156277
+#EXTINF:-1 tvg-logo="null" group-title="自定义",金甲EzNpc
+https://epg.112114.xyz/douyu/4572396
+#EXTINF:-1 tvg-logo="null" group-title="自定义",iu可可曾
+https://epg.112114.xyz/douyu/83816
+#EXTINF:-1 tvg-logo="null" group-title="自定义",呆妹儿小霸王
+https://epg.112114.xyz/douyu/2947432
+#EXTINF:-1 tvg-logo="null" group-title="自定义",Big茄子
+https://epg.112114.xyz/douyu/9418
